@@ -19,7 +19,7 @@ Octave was configured for "i686-pc-mingw32".
 - **LICENSE.txt**: GNU GPL v3.0 License file.
 - **copyright.txt**: Copyright notice printed at the prompt when you run the program and included on the top of each source code file.  
 - **play.m**: Program head and start file (contains the game flow and calls the rest of the m functions/files). You should run this file to play the game.
-- ***.m**: Matlab/Octave functions which implements the different aspects of the game.
+- **\*.m**: Matlab/Octave functions which implements the different aspects of the game.
 - **/TestBenches**: Contains test bench (unit test) files. **{function}_tb.m** file test **{function}.m**. **tb** stands for Test Bench. 
 - **/Misc**: Miscellaneous scripts that I found useful while developing the program.
 
