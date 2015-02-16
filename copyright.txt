@@ -1,0 +1,4 @@
+Color Flood - Copyright (C) 2015  Ahmad Al-Kashef
+This program comes with ABSOLUTELY NO WARRANTY; for details see LICENSE.txt.
+This is free software, and you are welcome to redistribute it
+under certain conditions; see LICENSE.txt for details.
